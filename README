@@ -1,0 +1,29 @@
+# Continuous 30m Forest Canopy Height for Yunnan Province (1986–2023)
+
+## 📌 Overview
+This repository contains the Google Earth Engine (GEE) JavaScript code used to generate a continuous 30m resolution forest canopy height dataset for Yunnan Province, China, spanning from 1986 to 2023.
+
+The code processes multi-source remote sensing data (e.g., Landsat time series, GEDI, ICESat-2) to produce a wall-to-wall canopy height map. 
+
+## 📂 Repository Structure
+- `CanopyHeight_Yunnan_1986_2023.js`: The main GEE script.
+- `README.md`: Project description and instructions.
+- `LICENSE`: License information.
+
+## 🚀 How to Use
+1. Go to [Google Earth Engine Code Editor](https://code.earthengine.google.com/).
+2. Copy the content of `CanopyHeight_Yunnan_1986_2023.js` and paste it into the editor.
+3. Ensure you have the necessary assets (e.g., GEDI L2A/L4A, Landsat) imported in your GEE environment.
+4. Click "Run" to execute the script.
+
+## 📊 Data Availability
+The final generated canopy height maps are available as GEE Assets. To access them, please contact the authors or request access via [Insert link/email].
+
+## 📖 Citation
+If you use this code or dataset, please cite:
+> [Your Name] et al. (2026). Continuous 30m Forest Canopy Height for Yunnan Province (1986–2023) [Code/Dataset]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+
+## 📧 Contact
+- **Author**: [Your Name]
+- **Email**: [Your Email]
+- **Institution**: [Your Institution]
