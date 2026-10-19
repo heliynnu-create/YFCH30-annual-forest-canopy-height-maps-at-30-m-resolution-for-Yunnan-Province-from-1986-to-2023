@@ -6,7 +6,7 @@ This repository contains the Google Earth Engine (GEE) JavaScript code used to g
 The code processes multi-source remote sensing data (e.g., Landsat time series, GEDI, ICESat-2) to produce a wall-to-wall canopy height map. 
 
 ## 📂 Repository Structure
-- `CanopyHeight_Yunnan_1986_2023.js`: The main GEE script.
+- `ForestCanopyHeight_Yunnan_1986_2023.js`: The main GEE script.
 - `README.md`: Project description and instructions.
 - `LICENSE`: License information.
 
@@ -17,7 +17,7 @@ The code processes multi-source remote sensing data (e.g., Landsat time series, 
 4. Click "Run" to execute the script.
 
 ## 📊 Data Availability
-The final generated canopy height maps are available as GEE Assets. To access them, please contact the authors or request access via [Insert link/email].
+The final generated canopy height maps are available as GEE Assets. To access them, please contact the authors or request access via [https://code.earthengine.google.com/7dfeefa63e76003998bef31f9498dd9e].
 
 ## 📖 Citation
 If you use this code or dataset, please cite:
